@@ -1,0 +1,177 @@
+INFO  2013-06-26 21:51:06,622    49ms DbProviderFactory      Create             - Creating provider forMySql
+INFO  2013-06-26 21:51:18,727 12155ms DbProviderFactory      Create             - Creating provider forMySql
+INFO  2013-06-26 21:51:25,081 18508ms DbProviderFactory      Create             - Creating provider forMySql
+INFO  2013-06-26 21:51:25,083 18510ms MySqlDbProvider        RecreateGoatDb     - Running recreate
+INFO  2013-06-26 21:52:19,063 72491ms Util                   cessWithInput>b__3 - Process exited
+INFO  2013-06-26 21:52:22,372 75800ms DbProviderFactory      Create             - Creating provider forMySql
+INFO  2013-06-26 21:52:24,952 78380ms DbProviderFactory      Create             - Creating provider forMySql
+INFO  2013-06-26 21:52:24,975 78403ms MySqlDbProvider        RecreateGoatDb     - Running recreate
+INFO  2013-06-26 21:52:35,061 88488ms Util                   cessWithInput>b__1 - Level	Code	Message
+INFO  2013-06-26 21:52:35,061 88489ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'creditLimit' at row 1
+INFO  2013-06-26 21:52:35,061 88489ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'creditLimit' at row 2
+INFO  2013-06-26 21:52:35,061 88489ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'creditLimit' at row 3
+INFO  2013-06-26 21:52:35,062 88489ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'creditLimit' at row 4
+INFO  2013-06-26 21:52:35,062 88489ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'creditLimit' at row 5
+INFO  2013-06-26 21:52:35,062 88489ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'creditLimit' at row 6
+INFO  2013-06-26 21:52:35,062 88490ms Util                   cessWithInput>b__1 - Warning	1366	Incorrect integer value: 'NULL' for column 'salesRepEmployeeNumber' at row 7
+INFO  2013-06-26 21:52:35,062 88490ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'creditLimit' at row 7
+INFO  2013-06-26 21:52:35,062 88490ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'creditLimit' at row 8
+INFO  2013-06-26 21:52:35,062 88490ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'creditLimit' at row 9
+INFO  2013-06-26 21:52:35,063 88490ms Util                   cessWithInput>b__1 - Level	Code	Message
+INFO  2013-06-26 21:52:35,063 88490ms Util                   cessWithInput>b__1 - Warning	1366	Incorrect integer value: 'NULL' for column 'reportsTo' at row 1
+INFO  2013-06-26 21:52:35,063 88491ms Util                   cessWithInput>b__1 - Level	Code	Message
+INFO  2013-06-26 21:52:35,063 88491ms Util                   cessWithInput>b__1 - Warning	1366	Incorrect integer value: '' for column 'customerNumber' at row 13
+INFO  2013-06-26 21:52:35,063 88491ms Util                   cessWithInput>b__1 - Warning	1366	Incorrect integer value: '' for column 'customerNumber' at row 65
+INFO  2013-06-26 21:52:35,063 88491ms Util                   cessWithInput>b__1 - Warning	1264	Out of range value for column 'shippedDate' at row 68
+INFO  2013-06-26 21:52:35,064 88491ms Util                   cessWithInput>b__1 - Warning	1366	Incorrect integer value: '' for column 'customerNumber' at row 74
+INFO  2013-06-26 21:52:35,064 88491ms Util                   cessWithInput>b__1 - Warning	1366	Incorrect integer value: '' for column 'customerNumber' at row 119
+INFO  2013-06-26 21:52:35,064 88491ms Util                   cessWithInput>b__1 - Warning	1264	Out of range value for column 'shippedDate' at row 149
+INFO  2013-06-26 21:52:35,064 88492ms Util                   cessWithInput>b__1 - Warning	1366	Incorrect integer value: '' for column 'customerNumber' at row 154
+INFO  2013-06-26 21:52:35,064 88492ms Util                   cessWithInput>b__1 - Warning	1264	Out of range value for column 'shippedDate' at row 161
+INFO  2013-06-26 21:52:35,064 88492ms Util                   cessWithInput>b__1 - Warning	1264	Out of range value for column 'shippedDate' at row 163
+INFO  2013-06-26 21:52:35,064 88492ms Util                   cessWithInput>b__1 - Warning	1366	Incorrect integer value: '' for column 'customerNumber' at row 180
+INFO  2013-06-26 21:52:35,065 88492ms Util                   cessWithInput>b__1 - Level	Code	Message
+INFO  2013-06-26 21:52:35,065 88492ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'MSRP' at row 1
+INFO  2013-06-26 21:52:35,065 88492ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'MSRP' at row 2
+INFO  2013-06-26 21:52:35,065 88493ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'MSRP' at row 3
+INFO  2013-06-26 21:52:35,065 88493ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'MSRP' at row 4
+INFO  2013-06-26 21:52:35,065 88493ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'MSRP' at row 5
+INFO  2013-06-26 21:52:35,065 88493ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'MSRP' at row 6
+INFO  2013-06-26 21:52:35,066 88493ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'MSRP' at row 7
+INFO  2013-06-26 21:52:35,066 88493ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'MSRP' at row 8
+INFO  2013-06-26 21:52:35,066 88494ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'MSRP' at row 9
+INFO  2013-06-26 21:52:35,066 88494ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'MSRP' at row 10
+INFO  2013-06-26 21:52:57,101 110529ms Util                   cessWithInput>b__3 - Process exited
+INFO  2013-06-26 21:52:57,102 110530ms Util                   cessWithInput>b__3 - Process exited
+INFO  2013-06-26 21:53:17,504 130932ms CustomerLogin          ButtonLogOn_Click  - User bob@ateliergraphique.com attempted to log in with password 123456
+INFO  2013-06-26 21:54:40,597 214025ms DbProviderFactory      Create             - Creating provider forMySql
+INFO  2013-06-26 21:54:40,599 214026ms MySqlDbProvider        RecreateGoatDb     - Running recreate
+INFO  2013-06-26 21:54:50,683 224111ms Util                   cessWithInput>b__1 - Level	Code	Message
+INFO  2013-06-26 21:54:50,683 224111ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'creditLimit' at row 1
+INFO  2013-06-26 21:54:50,683 224111ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'creditLimit' at row 2
+INFO  2013-06-26 21:54:50,683 224111ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'creditLimit' at row 3
+INFO  2013-06-26 21:54:50,684 224111ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'creditLimit' at row 4
+INFO  2013-06-26 21:54:50,684 224111ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'creditLimit' at row 5
+INFO  2013-06-26 21:54:50,684 224112ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'creditLimit' at row 6
+INFO  2013-06-26 21:54:50,684 224112ms Util                   cessWithInput>b__1 - Warning	1366	Incorrect integer value: 'NULL' for column 'salesRepEmployeeNumber' at row 7
+INFO  2013-06-26 21:54:50,684 224112ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'creditLimit' at row 7
+INFO  2013-06-26 21:54:50,684 224112ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'creditLimit' at row 8
+INFO  2013-06-26 21:54:50,685 224112ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'creditLimit' at row 9
+INFO  2013-06-26 21:54:50,685 224112ms Util                   cessWithInput>b__1 - Level	Code	Message
+INFO  2013-06-26 21:54:50,685 224113ms Util                   cessWithInput>b__1 - Warning	1366	Incorrect integer value: 'NULL' for column 'reportsTo' at row 1
+INFO  2013-06-26 21:54:50,685 224113ms Util                   cessWithInput>b__1 - Level	Code	Message
+INFO  2013-06-26 21:54:50,685 224113ms Util                   cessWithInput>b__1 - Warning	1366	Incorrect integer value: '' for column 'customerNumber' at row 13
+INFO  2013-06-26 21:54:50,685 224113ms Util                   cessWithInput>b__1 - Warning	1366	Incorrect integer value: '' for column 'customerNumber' at row 65
+INFO  2013-06-26 21:54:50,686 224113ms Util                   cessWithInput>b__1 - Warning	1264	Out of range value for column 'shippedDate' at row 68
+INFO  2013-06-26 21:54:50,686 224113ms Util                   cessWithInput>b__1 - Warning	1366	Incorrect integer value: '' for column 'customerNumber' at row 74
+INFO  2013-06-26 21:54:50,686 224114ms Util                   cessWithInput>b__1 - Warning	1366	Incorrect integer value: '' for column 'customerNumber' at row 119
+INFO  2013-06-26 21:54:50,686 224114ms Util                   cessWithInput>b__1 - Warning	1264	Out of range value for column 'shippedDate' at row 149
+INFO  2013-06-26 21:54:50,686 224114ms Util                   cessWithInput>b__1 - Warning	1366	Incorrect integer value: '' for column 'customerNumber' at row 154
+INFO  2013-06-26 21:54:50,687 224114ms Util                   cessWithInput>b__1 - Warning	1264	Out of range value for column 'shippedDate' at row 161
+INFO  2013-06-26 21:54:50,687 224114ms Util                   cessWithInput>b__1 - Warning	1264	Out of range value for column 'shippedDate' at row 163
+INFO  2013-06-26 21:54:50,687 224114ms Util                   cessWithInput>b__1 - Warning	1366	Incorrect integer value: '' for column 'customerNumber' at row 180
+INFO  2013-06-26 21:54:50,687 224115ms Util                   cessWithInput>b__1 - Level	Code	Message
+INFO  2013-06-26 21:54:50,687 224115ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'MSRP' at row 1
+INFO  2013-06-26 21:54:50,687 224115ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'MSRP' at row 2
+INFO  2013-06-26 21:54:50,687 224115ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'MSRP' at row 3
+INFO  2013-06-26 21:54:50,688 224115ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'MSRP' at row 4
+INFO  2013-06-26 21:54:50,688 224115ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'MSRP' at row 5
+INFO  2013-06-26 21:54:50,688 224116ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'MSRP' at row 6
+INFO  2013-06-26 21:54:50,688 224116ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'MSRP' at row 7
+INFO  2013-06-26 21:54:50,688 224116ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'MSRP' at row 8
+INFO  2013-06-26 21:54:50,688 224116ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'MSRP' at row 9
+INFO  2013-06-26 21:54:50,688 224116ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'MSRP' at row 10
+INFO  2013-06-26 22:00:57,675    45ms DbProviderFactory      Create             - Creating provider forMySql
+INFO  2013-07-10 22:51:06,068    71ms DbProviderFactory      Create             - Creating provider forMySql
+INFO  2013-07-17 21:13:29,425   112ms DbProviderFactory      Create             - Creating provider forMySql
+INFO  2013-09-14 15:45:03,170    72ms DbProviderFactory      Create             - Creating provider forMySql
+INFO  2014-03-14 10:31:43,029   186ms DbProviderFactory      Create             - Creating provider forMySql
+INFO  2014-03-14 10:32:22,165 39323ms DbProviderFactory      Create             - Creating provider forMySql
+INFO  2014-03-14 10:32:22,168 39325ms MySqlDbProvider        RecreateGoatDb     - Running recreate
+INFO  2014-03-14 10:36:30,112   206ms DbProviderFactory      Create             - Creating provider forMySql
+INFO  2014-03-14 10:36:45,919 16012ms DbProviderFactory      Create             - Creating provider forMySql
+INFO  2014-03-14 10:36:45,962 16055ms MySqlDbProvider        RecreateGoatDb     - Running recreate
+INFO  2014-03-14 10:36:56,288 26381ms Util                   cessWithInput>b__1 - Level	Code	Message
+INFO  2014-03-14 10:36:56,289 26382ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'creditLimit' at row 1
+INFO  2014-03-14 10:36:56,290 26384ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'creditLimit' at row 2
+INFO  2014-03-14 10:36:56,291 26385ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'creditLimit' at row 3
+INFO  2014-03-14 10:36:56,293 26386ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'creditLimit' at row 4
+INFO  2014-03-14 10:36:56,293 26387ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'creditLimit' at row 5
+INFO  2014-03-14 10:36:56,294 26388ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'creditLimit' at row 6
+INFO  2014-03-14 10:36:56,295 26388ms Util                   cessWithInput>b__1 - Warning	1366	Incorrect integer value: 'NULL' for column 'salesRepEmployeeNumber' at row 7
+INFO  2014-03-14 10:36:56,295 26389ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'creditLimit' at row 7
+INFO  2014-03-14 10:36:56,296 26389ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'creditLimit' at row 8
+INFO  2014-03-14 10:36:56,296 26390ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'creditLimit' at row 9
+INFO  2014-03-14 10:36:56,297 26390ms Util                   cessWithInput>b__1 - Level	Code	Message
+INFO  2014-03-14 10:36:56,298 26391ms Util                   cessWithInput>b__1 - Warning	1366	Incorrect integer value: 'NULL' for column 'reportsTo' at row 1
+INFO  2014-03-14 10:36:56,298 26392ms Util                   cessWithInput>b__1 - Level	Code	Message
+INFO  2014-03-14 10:36:56,299 26392ms Util                   cessWithInput>b__1 - Warning	1366	Incorrect integer value: '' for column 'customerNumber' at row 13
+INFO  2014-03-14 10:36:56,299 26393ms Util                   cessWithInput>b__1 - Warning	1366	Incorrect integer value: '' for column 'customerNumber' at row 65
+INFO  2014-03-14 10:36:56,300 26394ms Util                   cessWithInput>b__1 - Warning	1264	Out of range value for column 'shippedDate' at row 68
+INFO  2014-03-14 10:36:56,301 26394ms Util                   cessWithInput>b__1 - Warning	1366	Incorrect integer value: '' for column 'customerNumber' at row 74
+INFO  2014-03-14 10:36:56,301 26395ms Util                   cessWithInput>b__1 - Warning	1366	Incorrect integer value: '' for column 'customerNumber' at row 119
+INFO  2014-03-14 10:36:56,302 26395ms Util                   cessWithInput>b__1 - Warning	1264	Out of range value for column 'shippedDate' at row 149
+INFO  2014-03-14 10:36:56,302 26396ms Util                   cessWithInput>b__1 - Warning	1366	Incorrect integer value: '' for column 'customerNumber' at row 154
+INFO  2014-03-14 10:36:56,303 26397ms Util                   cessWithInput>b__1 - Warning	1264	Out of range value for column 'shippedDate' at row 161
+INFO  2014-03-14 10:36:56,303 26397ms Util                   cessWithInput>b__1 - Warning	1264	Out of range value for column 'shippedDate' at row 163
+INFO  2014-03-14 10:36:56,305 26398ms Util                   cessWithInput>b__1 - Warning	1366	Incorrect integer value: '' for column 'customerNumber' at row 180
+INFO  2014-03-14 10:36:56,305 26399ms Util                   cessWithInput>b__1 - Level	Code	Message
+INFO  2014-03-14 10:36:56,306 26400ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'MSRP' at row 1
+INFO  2014-03-14 10:36:56,307 26400ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'MSRP' at row 2
+INFO  2014-03-14 10:36:56,307 26401ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'MSRP' at row 3
+INFO  2014-03-14 10:36:56,308 26402ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'MSRP' at row 4
+INFO  2014-03-14 10:36:56,309 26403ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'MSRP' at row 5
+INFO  2014-03-14 10:36:56,310 26404ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'MSRP' at row 6
+INFO  2014-03-14 10:36:56,311 26404ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'MSRP' at row 7
+INFO  2014-03-14 10:36:56,311 26405ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'MSRP' at row 8
+INFO  2014-03-14 10:36:56,312 26405ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'MSRP' at row 9
+INFO  2014-03-14 10:36:56,312 26406ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'MSRP' at row 10
+INFO  2014-03-14 10:37:11,739 41833ms DbProviderFactory      Create             - Creating provider forMySql
+INFO  2014-03-14 10:37:13,038 43132ms Util                   cessWithInput>b__3 - Process exited
+INFO  2014-03-14 10:37:13,041 43134ms Util                   cessWithInput>b__3 - Process exited
+INFO  2014-03-14 10:37:48,790 78883ms CustomerLogin          ButtonLogOn_Click  - User bob@ateliergraphique.com attempted to log in with password 123456
+DEBUG 2014-03-14 10:39:05,375 155468ms WeakMessageDigest      GenerateWeakDigest - Bytes for Well done! You can now consider yourself an expert hacker! Well almost. Surely this is an easy digest to break!...
+DEBUG 2014-03-14 10:39:05,377 155471ms WeakMessageDigest      GenerateWeakDigest - 61,112,68,57,91,42,76,52,39,124,61,77,113,97,65,52,91,109,72,113,
+INFO  2014-03-14 10:44:19,359 469453ms DbProviderFactory      Create             - Creating provider forMySql
+INFO  2014-03-14 10:44:19,362 469455ms MySqlDbProvider        RecreateGoatDb     - Running recreate
+INFO  2014-03-14 10:44:29,513 479606ms Util                   cessWithInput>b__1 - Level	Code	Message
+INFO  2014-03-14 10:44:29,513 479607ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'creditLimit' at row 1
+INFO  2014-03-14 10:44:29,514 479608ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'creditLimit' at row 2
+INFO  2014-03-14 10:44:29,515 479608ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'creditLimit' at row 3
+INFO  2014-03-14 10:44:29,516 479609ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'creditLimit' at row 4
+INFO  2014-03-14 10:44:29,516 479610ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'creditLimit' at row 5
+INFO  2014-03-14 10:44:29,517 479610ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'creditLimit' at row 6
+INFO  2014-03-14 10:44:29,517 479611ms Util                   cessWithInput>b__1 - Warning	1366	Incorrect integer value: 'NULL' for column 'salesRepEmployeeNumber' at row 7
+INFO  2014-03-14 10:44:29,518 479611ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'creditLimit' at row 7
+INFO  2014-03-14 10:44:29,518 479612ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'creditLimit' at row 8
+INFO  2014-03-14 10:44:29,519 479612ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'creditLimit' at row 9
+INFO  2014-03-14 10:44:29,519 479613ms Util                   cessWithInput>b__1 - Level	Code	Message
+INFO  2014-03-14 10:44:29,520 479614ms Util                   cessWithInput>b__1 - Warning	1366	Incorrect integer value: 'NULL' for column 'reportsTo' at row 1
+INFO  2014-03-14 10:44:29,521 479614ms Util                   cessWithInput>b__1 - Level	Code	Message
+INFO  2014-03-14 10:44:29,521 479615ms Util                   cessWithInput>b__1 - Warning	1366	Incorrect integer value: '' for column 'customerNumber' at row 13
+INFO  2014-03-14 10:44:29,522 479616ms Util                   cessWithInput>b__1 - Warning	1366	Incorrect integer value: '' for column 'customerNumber' at row 65
+INFO  2014-03-14 10:44:29,523 479616ms Util                   cessWithInput>b__1 - Warning	1264	Out of range value for column 'shippedDate' at row 68
+INFO  2014-03-14 10:44:29,523 479617ms Util                   cessWithInput>b__1 - Warning	1366	Incorrect integer value: '' for column 'customerNumber' at row 74
+INFO  2014-03-14 10:44:29,524 479617ms Util                   cessWithInput>b__1 - Warning	1366	Incorrect integer value: '' for column 'customerNumber' at row 119
+INFO  2014-03-14 10:44:29,524 479618ms Util                   cessWithInput>b__1 - Warning	1264	Out of range value for column 'shippedDate' at row 149
+INFO  2014-03-14 10:44:29,525 479618ms Util                   cessWithInput>b__1 - Warning	1366	Incorrect integer value: '' for column 'customerNumber' at row 154
+INFO  2014-03-14 10:44:29,525 479619ms Util                   cessWithInput>b__1 - Warning	1264	Out of range value for column 'shippedDate' at row 161
+INFO  2014-03-14 10:44:29,526 479620ms Util                   cessWithInput>b__1 - Warning	1264	Out of range value for column 'shippedDate' at row 163
+INFO  2014-03-14 10:44:29,527 479620ms Util                   cessWithInput>b__1 - Warning	1366	Incorrect integer value: '' for column 'customerNumber' at row 180
+INFO  2014-03-14 10:44:29,527 479621ms Util                   cessWithInput>b__1 - Level	Code	Message
+INFO  2014-03-14 10:44:29,528 479622ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'MSRP' at row 1
+INFO  2014-03-14 10:44:29,529 479622ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'MSRP' at row 2
+INFO  2014-03-14 10:44:29,529 479623ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'MSRP' at row 3
+INFO  2014-03-14 10:44:29,530 479623ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'MSRP' at row 4
+INFO  2014-03-14 10:44:29,530 479624ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'MSRP' at row 5
+INFO  2014-03-14 10:44:29,531 479624ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'MSRP' at row 6
+INFO  2014-03-14 10:44:29,531 479625ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'MSRP' at row 7
+INFO  2014-03-14 10:44:29,532 479626ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'MSRP' at row 8
+INFO  2014-03-14 10:44:29,533 479626ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'MSRP' at row 9
+INFO  2014-03-14 10:44:29,533 479627ms Util                   cessWithInput>b__1 - Warning	1265	Data truncated for column 'MSRP' at row 10
+INFO  2014-03-14 10:45:03,237 513330ms CustomerLogin          ButtonLogOn_Click  - User bob@ateliergraphique.com attempted to log in with password 123456
+INFO  2014-03-14 10:45:06,511 516604ms Util                   cessWithInput>b__3 - Process exited
+INFO  2014-03-14 10:45:06,512 516606ms Util                   cessWithInput>b__3 - Process exited
+INFO  2015-06-24 00:16:16,950    79ms DbProviderFactory      Create             - Creating provider forMySql
+INFO  2015-07-30 23:05:22,541   219ms DbProviderFactory      Create             - Creating provider forMySql
+INFO  2015-07-30 23:05:40,905 18584ms CustomerLogin          ButtonLogOn_Click  - User bob@ateliergraphique.com attempted to log in with password 123456

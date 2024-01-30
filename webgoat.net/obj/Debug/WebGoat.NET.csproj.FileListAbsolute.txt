@@ -1,0 +1,13 @@
+\\owaspbwa\owaspbwa\webgoat.net-git\WebGoat\obj\Debug\ResolveAssemblyReference.cache
+\\owaspbwa\owaspbwa\webgoat.net-git\WebGoat\bin\DotNetGoat.dll
+\\owaspbwa\owaspbwa\webgoat.net-git\WebGoat\bin\DotNetGoat.pdb
+\\owaspbwa\owaspbwa\webgoat.net-git\WebGoat\bin\log4net.dll
+\\owaspbwa\owaspbwa\webgoat.net-git\WebGoat\bin\mysql.data.dll
+\\owaspbwa\owaspbwa\webgoat.net-git\WebGoat\bin\mysql.data.entity.dll
+\\owaspbwa\owaspbwa\webgoat.net-git\WebGoat\bin\mysql.visualstudio.dll
+\\owaspbwa\owaspbwa\webgoat.net-git\WebGoat\bin\mysql.web.dll
+\\owaspbwa\owaspbwa\webgoat.net-git\WebGoat\bin\System.Data.SQLite.dll
+\\owaspbwa\owaspbwa\webgoat.net-git\WebGoat\bin\log4net.xml
+\\owaspbwa\owaspbwa\webgoat.net-git\WebGoat\bin\System.Data.SQLite.xml
+\\owaspbwa\owaspbwa\webgoat.net-git\WebGoat\obj\Debug\DotNetGoat.dll
+\\owaspbwa\owaspbwa\webgoat.net-git\WebGoat\obj\Debug\DotNetGoat.pdb
